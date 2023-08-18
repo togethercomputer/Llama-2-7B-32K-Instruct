@@ -168,3 +168,5 @@ Click the `play` button to start an instance, and begin testing your model in th
 ## (Step IV) - Deploy
 
 Now that you’ve tested the model in our Playgrounds, you can integrate the model into your end application! Query the model using the fine-tuning API. Simply click “<>” in the Playground to see examples of how to query it via the API. 
+
+<img src="docs/assets/images/api_query_demo.png" width="1000">
