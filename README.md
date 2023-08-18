@@ -1,6 +1,7 @@
 # Building Llama-2-7B-32K-Instruct Using Together API
 
-In this repo, we share the complete recipe of building [Llama-2-7B-32K-Instruct](https://huggingface.co/togethercomputer/Llama-2-7B-32K-Instruct) Using [Together API](https://together.ai/blog/api-announcement). We encourage you to try out [Together API](https://together.ai/blog/api-announcement) and give us feedbacks! The fine-tuning process is carried out in four simple steps: `Distill`, `Train`, `Test` and `Deploy`.
+In our [blog post](https://together.ai/blog/llama-2-7b-32k-instruct), we released the [Llama-2-7B-32K-Instruct](https://huggingface.co/togethercomputer/Llama-2-7B-32K-Instruct) model finetuned using [Together API](https://together.ai/blog/api-announcement). 
+In this repo, we share the complete recipe. We encourage you to try out [Together API](https://together.ai/blog/api-announcement) and give us feedbacks! The fine-tuning process is carried out in four simple steps: `Distill`, `Train`, `Test` and `Deploy`.
 
 ## (Step I) - Distill
 
